@@ -6,8 +6,14 @@
     "logo": "/assets/logo.png",
     "sidebar": [
         ["Nizukshya Labs", "/"],
-        ["Simple Checklist", "/simple-checklist"],
-        ["Markdown Importer", "/markdown-importer"]
+        ["Apps", [
+            ["Simple Checklist", "/simple-checklist"],
+            ["Markdown Importer", "/markdown-importer"]
+        ]],
+        ["Pages", [
+            ["Privacy Policy", "/privacy-policy"],
+            ["Eula", "/eula"]
+        ]]
     ],
     "anchors": [
         {
