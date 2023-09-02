@@ -5,7 +5,7 @@
     "favicon": "/assets/logo.png",
     "logo": "/assets/logo.png",
     "sidebar": [
-        ["Home", "/"],
+        ["Nizukshya Labs", "/"],
         ["Simple Checklist", "/simple-checklist"],
         ["Markdown Importer", "/markdown-importer"]
     ],
