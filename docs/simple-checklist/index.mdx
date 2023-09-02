@@ -4,7 +4,7 @@ description: Simple Checklist for Jira app revolutionizes your task management e
 ---
 
 export const Flex = props => {
-  return <div style={{ dispaly: 'flex', flexDirection: 'row', gap: 10 }}>{props.children}</div>;
+  return <div style={{ dispaly: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>{props.children}</div>;
 };
 
 
@@ -24,8 +24,8 @@ export const Flex = props => {
 ## Screenshots
 
 <Flex>
-  <Image src="https://nizukshya.com/simple-checklist/app-checklist.jpg" alt="Checklist 1" width="400" height="100" caption="Screenshot 1" />
-  <Image src="https://nizukshya.com/simple-checklist/app-checklist-2.png" alt="Checklist 2" width="400" height="100" caption="Screenshot 2 " />
+  <Image src="https://nizukshya.com/simple-checklist/app-checklist.jpg" alt="Checklist 1" caption="Screenshot 1" />
+  <Image src="https://nizukshya.com/simple-checklist/app-checklist-2.png" alt="Checklist 2" caption="Screenshot 2 " />
 </Flex>
 
 ## Installation
