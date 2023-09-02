@@ -5,20 +5,20 @@
     "favicon": "/assets/logo.png",
     "logo": "/assets/logo.png",
     "sidebar": [
-      ["Home", "/"],
-      ["Simple Checklist", "/simple-checklist"],
+        ["Home", "/"],
+        ["Simple Checklist", "/simple-checklist"]
     ],
     "anchors": [
         { "title": "Discord", "icon": "discord", "link": "#" },
         {
-            title: "Homepage",
-            icon: "house",
-            link: "/"
+            "title": "Homepage",
+            "icon": "house",
+            "link": "/"
         },
         {
-            title: "Website",
-            icon: "globe",
-            link: "https://www.nizukshya.com"
+            "title": "Website",
+            "icon": "globe",
+            "link": "https://www.nizukshya.com"
         }
     ]
-  }
+}
