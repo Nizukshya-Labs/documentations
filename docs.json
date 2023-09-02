@@ -1,10 +1,22 @@
 {
     "name": "docs.page",
     "theme": "#ff0065",
-    "favicon": "https://www.nizukshya.com/favicon.ico",
-    "logo": "https://www.nizukshya.com/logo.png",
+    "favicon": "/assets/favicon.ico",
+    "logo": "/assets/logo.png",
     "sidebar": [
       ["Home", "/"],
       ["Another Page", "/another-page"],
+    ],
+    "anchors": [
+        {
+            title: "Homepage",
+            icon: "house",
+            link: "/"
+        },
+        {
+            title: "Website",
+            icon: "globe",
+            link: "https://www.nizukshya.com"
+        }
     ]
   }
