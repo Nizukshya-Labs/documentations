@@ -5,14 +5,20 @@
     "favicon": "/assets/logo.png",
     "logo": "/assets/logo.png",
     "sidebar": [
-        ["Home", "/"],
-        ["Simple Checklist", "/simple-checklist"]
+        ["Nizukshya Labs", "/"],
+        ["Simple Checklist", "/simple-checklist"],
+        ["Markdown Importer", "/markdown-importer"]
     ],
     "anchors": [
         {
             "title": "Website",
             "icon": "globe",
             "link": "https://www.nizukshya.com"
+        },
+        {
+            "title": "Marketplace",
+            "icon": "atlassian",
+            "link": "https://marketplace.atlassian.com/vendors/1224569/"
         }
     ]
 }
