@@ -9,12 +9,6 @@
         ["Simple Checklist", "/simple-checklist"]
     ],
     "anchors": [
-        { "title": "Discord", "icon": "discord", "link": "#" },
-        {
-            "title": "Homepage",
-            "icon": "house",
-            "link": "/"
-        },
         {
             "title": "Website",
             "icon": "globe",
