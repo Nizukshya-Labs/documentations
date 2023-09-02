@@ -1,13 +1,14 @@
 {
-    "name": "docs.page",
+    "name": "Nizukshya Labs",
     "theme": "#ff0065",
-    "favicon": "/favicon.ico",
-    "logo": "/logo.png",
+    "favicon": "/assets/logo.png",
+    "logo": "/assets/logo.png",
     "sidebar": [
       ["Home", "/"],
       ["Another Page", "/another-page"],
     ],
     "anchors": [
+        { "title": "Discord", "icon": "discord", "link": "#" },
         {
             title: "Homepage",
             icon: "house",
