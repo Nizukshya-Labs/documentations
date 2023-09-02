@@ -1,8 +1,8 @@
 {
     "name": "docs.page",
     "theme": "#ff0065",
-    "favicon": "favicon.ico",
-    "logo": "logo.png",
+    "favicon": "/favicon.ico",
+    "logo": "/logo.png",
     "sidebar": [
       ["Home", "/"],
       ["Another Page", "/another-page"],
