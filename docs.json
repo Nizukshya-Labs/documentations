@@ -6,7 +6,7 @@
     "logo": "/assets/logo.png",
     "sidebar": [
         ["Home", "/"],
-        ["Simple Checklist", "/simple-checklist"]
+        ["Simple Checklist", "/simple-checklist"],
         ["Markdown Importer", "/markdown-importer"]
     ],
     "anchors": [
