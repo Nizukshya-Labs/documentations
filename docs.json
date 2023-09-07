@@ -9,10 +9,10 @@
         ["Apps", [
             ["Simple Checklist", "/simple-checklist"],
             ["Markdown Importer", [
-                ["Overview", "/"],
-                ["Single Import", "/single-import"], 
-                ["Bulk Import", "/bulk-import"], 
-                ["URL Import", "/url-import"]
+                ["Overview", "/markdown-importer"],
+                ["Single Import", "/markdown-importer/single-import"],
+                ["Bulk Import", "/markdown-importer/bulk-import"],
+                ["URL Import", "/markdown-importer/url-import"]
             ]]
         ]],
         ["Pages", [
