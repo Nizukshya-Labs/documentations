@@ -8,12 +8,12 @@
         ["Nizukshya Labs", "/"],
         ["Apps", [
             ["Simple Checklist", "/simple-checklist"],
-            ["Markdown Importer",
+            ["Markdown Importer", [
                 ["Overview", "/"],
                 ["Single Import", "/single-import"], 
                 ["Bulk Import", "/bulk-import"], 
                 ["URL Import", "/url-import"]
-            ]
+            ]]
         ]],
         ["Pages", [
             ["Privacy Policy", "/privacy-policy"],
