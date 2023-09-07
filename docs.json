@@ -6,9 +6,12 @@
     "logo": "/assets/logo.png",
     "sidebar": [
         ["Nizukshya Labs", "/"],
-        ["Apps", [
-            ["Simple Checklist", "/simple-checklist"],
-            ["Markdown Importer", "/markdown-importer"]
+        ["Simple Checklist", "/simple-checklist"],
+        ["Markdown Importer", [
+            ["Overview", "/markdown-importer"],
+            ["Single Import", "/markdown-importer/single-import"],
+            ["Bulk Import", "/markdown-importer/bulk-import"],
+            ["URL Import", "/markdown-importer/url-import"]
         ]],
         ["Pages", [
             ["Privacy Policy", "/privacy-policy"],
